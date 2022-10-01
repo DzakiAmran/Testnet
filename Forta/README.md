@@ -3,3 +3,5 @@
 </p>
 
 <p align="center">Forta is a decentralized monitoring network to detect threats and anomalies on DeFi, NFT, governance, bridges and other Web3 systems in real-time.<p>
+
+#Manual Node Setup
