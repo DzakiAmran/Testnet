@@ -19,3 +19,11 @@ Explorer :
 - Ram   : 8GB
 - Disk  : 100GB
 
+## Things to Prepare
+### 1. Wallet address with fund 1 MATIC in Polygon Network to fund scanner address and used for owner address.
+### 2. json-RPC url, you can get it from https://www.alchemy.com/. in that you can choose API what chain you will run.
+
+## Update Packages
+```
+sudo apt update && sudo apt upgrade -y
+```
