@@ -7,5 +7,5 @@
 # Before Run The Node, You Must Register an Account on Inery Website
 
 <p align="center">
-    <a src="https://testnet.inery.io/">Register Here</a>
+    [Register Here](https://testnet.inery.io/)
 </p>
