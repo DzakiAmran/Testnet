@@ -7,5 +7,31 @@
 # Before Run The Node, First Register an Account on Inery Website
 
 <p align="center">
-    <a src="https://testnet.inery.io/">Register Here</a>
+    <a href="https://testnet.inery.io/">Register Here</a>
 </p>
+
+## Register Account
+
+- Fill the required data
+
+<img src="">
+
+> if you use VPS from Contabo, name server in `Reverse DNS Management` on your dashboard account
+
+- Save Secret Phrase
+
+<img src="">
+
+- Claim faucet 
+
+# TASK 
+
+| Number | Description                                  | Manual Guide          |
+|--------|----------------------------------------------| ----------------------|
+| Task 1 | Running Master Node                          | [click here]()        |
+| Task 2 | Make own currency and transfer to someone    | [click here]()        |
+| Task 3 | Create Contract                              | [click here]()        |
+| Task 4 | RPC API Push Transaction                     | [click here]()        |
+| Task 5 | Build full-stack web app using blockchain db | [click here]()        |
+| Task 6 | Create simple game contract                  | [click here]()        |
+| Task 7 | Create an NFT                                | [click here]()        |
