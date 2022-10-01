@@ -4,6 +4,8 @@
 
 <p align="center">Inery is layer-1 blockchain designed to offer the solution of decentralized database management with the vision to enable a new paradigm for data. It lays the foundation for web3 by seamlessly connecting with systems, applications, and layer-1 networks.</p>
 
-# Before Run The Node, You Must Register an Account on Inery Website
+# Before Run The Node, First Register an Account on Inery Website
 
->[Register Here](https://testnet.inery.io/)
+<p align="center">
+    <a src="https://testnet.inery.io/">Register Here</a>
+</p>
