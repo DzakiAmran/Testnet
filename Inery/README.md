@@ -7,10 +7,10 @@
 # Before Run The Node, First Register an Account on Inery Website
 
 <p align="center">
-    <a target="_blank" href="https://testnet.inery.io/">Register Here</a>
+    <a href="https://testnet.inery.io/" target="_blank">Register Here</a>
 </p>
 
-# Minumum System Requirement
+# Minimum System Requirement
 
 - CPU   : 4Core
 - Memory: 16Gb Ram
@@ -32,7 +32,7 @@
 
 - Claim faucet 
 
-<imge src="">
+<img src="">
 
 # TASK 
 
