@@ -24,6 +24,7 @@
 <img src="https://user-images.githubusercontent.com/103183907/193440373-d80c8a88-fadf-4a59-a17f-208b54532369.png">
 
 > if you use VPS from Contabo, name server in `Reverse DNS Management` on your dashboard account
+
 > if use Azure, name server fill same with IP Address
 
 - Save Secret Phrase
@@ -42,7 +43,7 @@
 
 | Number | Description                                  | Manual Guide                       |
 |--------|----------------------------------------------| -----------------------------------|
-| Task 1 | Running Master Node                          | [click here](.Inery/Task/Task_1.md)|
+| Task 1 | Running Master Node                          | [click here](./Inery/Task/Task_1.md)|
 | Task 2 | Make own currency and transfer to someone    | [click here]()|
 | Task 3 | Create Contract                              | [click here]()|
 | Task 4 | RPC API Push Transaction                     | [click here]()|
