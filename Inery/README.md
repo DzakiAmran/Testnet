@@ -30,7 +30,7 @@
 
 <img src="https://user-images.githubusercontent.com/38981255/184137069-71beff53-73e6-47e3-b76f-670c269c12b3.PNG">
 
-- Claim faucet 
+- Claim faucet 50000 INR
 
 <img src="https://user-images.githubusercontent.com/103183907/193440482-757cd5f9-a58c-45a9-961c-a21152e3c15b.png">
 
