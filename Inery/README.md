@@ -10,6 +10,13 @@
     <a target="_blank" href="https://testnet.inery.io/">Register Here</a>
 </p>
 
+# Minumum System Requirement
+
+- CPU   : 4Core
+- Memory: 16Gb Ram
+- Disk  : 200 GB
+- OS    : Ubuntu 20
+
 ## Register Account
 
 - Fill the required data
@@ -17,6 +24,7 @@
 <img src="">
 
 > if you use VPS from Contabo, name server in `Reverse DNS Management` on your dashboard account
+> if use Azure, name server fill same with IP Address
 
 - Save Secret Phrase
 
