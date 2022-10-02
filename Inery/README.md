@@ -43,7 +43,7 @@
 
 | Number | Description                                  | Manual Guide                       |
 |--------|----------------------------------------------| -----------------------------------|
-| Task 1 | Running Master Node                          | [click here](./Inery/Task/Task_1.md)|
+| Task 1 | Running Master Node                          | [click here](./Task/Task_1.md)|
 | Task 2 | Make own currency and transfer to someone    | [click here]()|
 | Task 3 | Create Contract                              | [click here]()|
 | Task 4 | RPC API Push Transaction                     | [click here]()|
