@@ -5,8 +5,8 @@
 <p align="center">Inery is layer-1 blockchain designed to offer the solution of decentralized database management with the vision to enable a new paradigm for data. It lays the foundation for web3 by seamlessly connecting with systems, applications, and layer-1 networks.</p>
 
 <div align="center">
-    <a href="https://discord.gg/inery" target="_blank"><img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png"></a>
-    <a href="https://t.me/inery_blockchain" target="_blank"><img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png"></a>
+    <a href="https://discord.gg/inery" target="_blank"><img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png" width="30"></a>
+    <a href="https://t.me/inery_blockchain" target="_blank"><img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"></a>
 </div>
 
 # Before Run The Node, First Register an Account on Inery Website
