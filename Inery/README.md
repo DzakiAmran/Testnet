@@ -28,20 +28,24 @@
 
 - Save Secret Phrase
 
-<img src="https://user-images.githubusercontent.com/38981255/184137069-71beff53-73e6-47e3-b76f-670c269c12b3.PNG">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/38981255/184137069-71beff53-73e6-47e3-b76f-670c269c12b3.PNG">
+</div>
 
 - Claim faucet 50000 INR
 
-<img src="https://user-images.githubusercontent.com/103183907/193440482-757cd5f9-a58c-45a9-961c-a21152e3c15b.png">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/103183907/193440482-757cd5f9-a58c-45a9-961c-a21152e3c15b.png">
+</div>
 
 # TASK 
 
-| Number | Description                                  | Manual Guide          |
-|--------|----------------------------------------------| ----------------------|
-| Task 1 | Running Master Node                          | [click here]()        |
-| Task 2 | Make own currency and transfer to someone    | [click here]()        |
-| Task 3 | Create Contract                              | [click here]()        |
-| Task 4 | RPC API Push Transaction                     | [click here]()        |
-| Task 5 | Build full-stack web app using blockchain db | [click here]()        |
-| Task 6 | Create simple game contract                  | [click here]()        |
-| Task 7 | Create an NFT                                | [click here]()        |
+| Number | Description                                  | Manual Guide                       |
+|--------|----------------------------------------------| -----------------------------------|
+| Task 1 | Running Master Node                          | [click here](.Inery/Task/Task_1.md)|
+| Task 2 | Make own currency and transfer to someone    | [click here]()|
+| Task 3 | Create Contract                              | [click here]()|
+| Task 4 | RPC API Push Transaction                     | [click here]()|
+| Task 5 | Build full-stack web app using blockchain db | [click here]()|
+| Task 6 | Create simple game contract                  | [click here]()|
+| Task 7 | Create an NFT                                | [click here]()|
