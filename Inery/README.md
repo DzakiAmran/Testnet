@@ -21,18 +21,18 @@
 
 - Fill the required data
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/103183907/193440373-d80c8a88-fadf-4a59-a17f-208b54532369.png">
 
 > if you use VPS from Contabo, name server in `Reverse DNS Management` on your dashboard account
 > if use Azure, name server fill same with IP Address
 
 - Save Secret Phrase
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/38981255/184137069-71beff53-73e6-47e3-b76f-670c269c12b3.PNG">
 
 - Claim faucet 
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/103183907/193440482-757cd5f9-a58c-45a9-961c-a21152e3c15b.png">
 
 # TASK 
 
