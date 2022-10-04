@@ -37,7 +37,7 @@ cline push action inery.token create '["<YOUR_USERNAME>", "100000.0000 <YOUR_TOK
 cline push action inery.token issue '["<YOUR_USERNAME>", "10000.0000 <YOUR_TOKENNAME>", "Issuing some <YOUR_TOKENNAME> token"]' -p <YOUR_USERNAME>
 ```
 
-NOTE : TO COMPLETE ON TASK 2 YOU MUST TRANSFER YOUR TOKEN TO 10 DIFFERENT ACCOUNT, YOU CAN CHECK ACCOUNT NAME <a href="https://explorer.inery.io/">HERE</a>
+NOTE : TO COMPLETE ON TASK 2 YOU MUST TRANSFER YOUR TOKEN TO 10 DIFFERENT ACCOUNT, YOU CAN CHECK ACCOUNT NAME <a href="https://explorer.inery.io/" target="_blank">HERE</a>
 
 ## Transfer Token 
 ```
