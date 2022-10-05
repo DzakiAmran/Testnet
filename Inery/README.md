@@ -49,6 +49,14 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/103183907/193440482-757cd5f9-a58c-45a9-961c-a21152e3c15b.png">
 </div>
+                                                                                                                     
+## Usefull Command
+
+### Check Wallet Balance                                                                                                                     
+```
+cline get currency balance inery.token <YOUR_USERNAME>                                                                                                                
+```
+                                                                                                                     
 
 # TASK 
 
