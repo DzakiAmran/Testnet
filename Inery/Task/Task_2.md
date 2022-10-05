@@ -44,4 +44,4 @@ NOTE : TO COMPLETE ON TASK 2 YOU MUST TRANSFER YOUR TOKEN TO 10 DIFFERENT ACCOUN
 cline push action inery.token transfer '["<YOUR_USERNAME>", "<RECEIVER>", "1.0000 <YOUR_TOKENNAME>", "Here Is 1 <YOUR_TOKENNAME> for you bro "]' -p <YOUR_USERNAME>
 ```
 
-> Repeat that until you done transfer your token to 10 different account
+> Repeat that until you done transfer your token to 10 different account included inery account
